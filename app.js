@@ -2,4 +2,4 @@
 console.log("Hallo Welt!");
 
 
-// Kommentar
+// Kommentar und so weiter
